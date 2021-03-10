@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+table,th,td{
+    border: 1px solid black;
+   padding: 15px;
+   
+    
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    /* background-color:rgb(227, 236, 146); */
+
+    
+}
+#back-Ground-Body-Photo{
+    background-image: url('stars.png' );
+
+}
+#photo{
+
+background-image: url('backGround.png');
+color: white;
+line-height: 50px;
+font-size: 20px;
+
+}
+#photo img{
+    border-radius: 50%;
+    padding: 5px;
+}
+#home-page{
+    background-color:17B6CE ;
+
+}
+
+#contact_me{
+    color:green;
+    background-color: ;
+    margin: 10px;
+    line-height: 50px;
+    text-decoration: underline;
+
+}
+#education{
+    padding: 5px;
+    margin: 20px;
+     line-height: 40px;
+    font-size: 20px;
+   
+}
+
+#table{
+    line-height: 65px;
+    margin: 30px;
+}
+
+
