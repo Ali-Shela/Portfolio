@@ -56,4 +56,12 @@ font-size: 20px;
     margin: 30px;
 }
 
+@media only screen and (max-width: 600px) {
+    #contact_me img{
+        width: 60px;
+    }
+    #home-page img{
+        width: 60px;
+    }
+  }
 
